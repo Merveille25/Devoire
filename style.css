@@ -205,7 +205,7 @@ justify-content: center;
 }
 .gallerie{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: 30px 60px;
     margin-top: -130
 }
