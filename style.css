@@ -544,7 +544,7 @@ padding: 2px 4px;
    } 
   .menu li{
       margin: 5px 0;
-      margin-left: 150px;
+      margin-left: 100px;
   }
  .nav-container{
      flex-direction: column;
@@ -558,6 +558,9 @@ padding: 2px 4px;
     objet-fit: cover;
     margin-top: 20px; 
 }
+   .lo-hero{
+       margin-top:-15px;
+   }
  .form{
     flex-direction: column;
     align-items: center;
