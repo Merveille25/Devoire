@@ -124,7 +124,7 @@ section{
 }
 .nav{
     margin-top: 130px ;
-    margin-left: -300px;
+    margin-left: -50px;
     border: 1rem;
     box-shadow: 5px 5px 30px rgba(0,0,0,0.1);
     position: relative;
@@ -230,6 +230,7 @@ justify-content: center;
     cursor: pointer;
     overflow: hidden;
     background-color: #fff;
+    margin-left: -20px;
 }
 .imag{
     width: 200px;
@@ -241,6 +242,8 @@ justify-content: center;
     background-color: #fff;
     overflow: hidden;
     padding: 20px;
+margin-left: -20px;
+
 }
 .gallerie .description{
     transform: translateY(350px);
